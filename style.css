@@ -10,7 +10,7 @@ html {
   background-size: cover;
 }
 h1 {
-  font-size: 3rem;
+  font-size: 300%;
   color: rgba(243, 97, 122, 0.5);
 }
 .buffer {
