@@ -1,0 +1,41 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: "Montserrat", sans-serif;
+  background: url(tree.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+h1 {
+  font-size: 3rem;
+  color: rgba(243, 97, 122, 0.5);
+}
+.buffer {
+  height: 10rem;
+}
+
+/* hr {
+  position: relative;
+  bottom: 75px;
+  margin: 20px auto;
+  border-top: 10px dotted rgb(255, 151, 168);
+  max-width: 75px;
+  opacity: 1;
+} */
+.btn {
+  position: relative;
+  bottom: 90px;
+  padding: 1rem 2rem;
+  font-weight: 900;
+  border-radius: 300px;
+}
+.btn-light {
+  background-color: rgba(255, 151, 168, 0.5);
+  border: rgba(245, 245, 245, 0.5);
+}
+.btn-light:hover {
+  background-color: pink;
+}
