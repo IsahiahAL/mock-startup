@@ -9,9 +9,6 @@ html {
   -o-background-size: cover;
   background-size: cover;
 }
-.container {
-  height: 100vh;
-}
 h1 {
   font-size: 3rem;
   color: rgba(243, 97, 122, 0.5);
