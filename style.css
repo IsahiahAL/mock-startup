@@ -40,7 +40,7 @@ h1 {
 .btn-light:hover {
   background-color: pink;
 }
-@media screen and (max-width: 375px) {
+@media screen and (max-height: 375px) {
   body {
     align-items: flex-start;
   }
